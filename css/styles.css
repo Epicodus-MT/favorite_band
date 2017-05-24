@@ -1,0 +1,21 @@
+p {
+  font-size: 24px;
+}
+
+.paragraph_left {
+  float: left;
+}
+
+img.picture_left {
+  float: left;
+}
+
+img.picture_right {
+  float: right;
+}
+
+.sidebar {
+  float: right;
+  font-size: 24px;
+  border-style: solid;
+}
