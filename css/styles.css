@@ -2,20 +2,25 @@ p {
   font-size: 24px;
 }
 
-.paragraph_left {
-  float: left;
-}
-
 img.picture_left {
   float: left;
+  padding: 10px;
 }
 
 img.picture_right {
   float: right;
+  padding: 10px;
 }
 
 .sidebar {
   float: right;
   font-size: 24px;
   border-style: solid;
+  padding: 10px;
+  margin: 20px;
+  background: grey;
+}
+
+div.grouping {
+  padding: 10px;
 }
